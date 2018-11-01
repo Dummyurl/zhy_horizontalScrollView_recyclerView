@@ -21,7 +21,6 @@ public class MainActivity extends Activity {
     private List<Integer> mDatas;
     private ImageView mImg;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
